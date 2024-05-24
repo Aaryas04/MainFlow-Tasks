@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #170a3d;
+  background-color: #2d0140;
   color: white;
   padding: 10px 0;
   text-align: center;
@@ -19,7 +19,7 @@ nav ul {
 }
 
 nav ul:hover {
-  background-color: #3e31d2;
+  background-color: #bb62e1;
 }
 
 nav ul li {
@@ -38,15 +38,16 @@ section {
 }
 
 #about {
-  background-color: #7394ed;
+  background-color: #bd78da;
+  color: white;
 }
 
 #projects {
-  background-color: #3a0fa0;
+  background-color: #642082;
 }
 
 #contact {
-  background-color: #7394ed;
+  background-color: #bd78da;
 }
 
 .project {
@@ -54,7 +55,7 @@ section {
 }
 
 footer {
-  background-color: #170a3d;
+  background-color: #2d0140;
   color: white;
   text-align: center;
   padding: 10px 0;
