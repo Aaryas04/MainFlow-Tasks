@@ -1,16 +1,16 @@
 h1 {  
     text-align: center;  
     padding: 23px;  
-    background-color: skyblue;  
+    background-color: rgb(5, 66, 77);  
     color: white;  
     }  
   
 #clear{  
 width: 270px;  
-border: 3px solid gray;  
+border: 3px solid rgb(5, 5, 5);  
     border-radius: 3px;  
     padding: 20px;  
-    background-color: red;  
+    background-color: rgb(9, 107, 234);  
 }  
   
 .formstyle  
@@ -18,7 +18,7 @@ border: 3px solid gray;
 width: 300px;  
 height: 530px;  
 margin: auto;  
-border: 3px solid skyblue;  
+border: 3px solid rgb(5, 66, 77);  
 border-radius: 5px;  
 padding: 20px;  
 }  
@@ -28,9 +28,9 @@ padding: 20px;
 input  
 {  
 width: 20px;  
-background-color: green;  
+background-color: rgb(15, 36, 57);  
 color: white;  
-border: 3px solid gray;  
+border: 3px solid rgb(5, 5, 5);  
     border-radius: 5px;  
     padding: 26px;  
     margin: 5px;  
