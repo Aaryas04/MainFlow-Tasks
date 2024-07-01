@@ -84,7 +84,7 @@ body {
 
   }
 
-.gallery-item:hover {
+.gallery_item:hover {
     transform: scale(1.05);
 }
 
