@@ -4,6 +4,10 @@ body {
     background-color: #f0f0f0;
 }
 
+.h1 {
+    text-align: center;
+}
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
